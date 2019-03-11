@@ -5,5 +5,5 @@
 + Tạo Jframe Đăng Kí tài khoản với name và pass, typepassword 
 + quay lại đăng nhập 
 + dữ liệu demo [file] account.txt
-```
-[contact] (https://www.facebook.com/truongngo.ngo.92)
+## Facebook
+[Contact Us](https://choosealicense.com/licenses/mit/)
